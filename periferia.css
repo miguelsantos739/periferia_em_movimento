@@ -1,0 +1,57 @@
+body {
+
+   background-color: #faf9f6;
+}
+
+h1 {
+
+   background-color: #cd4d13;
+
+}
+
+.tab table { 
+   border-radius: 15px;
+   display: flex;
+   padding: 30px;
+     
+   
+}
+
+
+td {
+   display: flex;
+}
+
+th {
+   display: flex;
+}
+
+.tab{
+   padding: px;
+   display: flex;
+}
+.img{
+   width: 125px;
+   height: 125px;
+   object-fit: cover
+}
+img{
+
+    padding-top: 20px;
+   
+}
+p{
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 20px;
+}
+h1{
+   font-size: 40px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+   display: flex;
+   justify-content: space-between;}
